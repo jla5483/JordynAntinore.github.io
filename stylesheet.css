@@ -1,8 +1,18 @@
 body{
-    font-family: 'Titillium Web', sans-serif;
-    background-color: white;
+    font-family: 'Playfair Display', serif;
+    background-color: #FFEFA8;
 }
 
 h1{
-    margin-left: 35%;
+    text-align: center;
+}
+
+#profilePic{
+    margin-left: 34%;
+    width: 450px;
+    height: 300px;
+}
+
+h3{
+    text-align: center;
 }
