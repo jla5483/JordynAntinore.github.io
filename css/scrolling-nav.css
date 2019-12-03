@@ -3,7 +3,39 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
- 
+#project2{
+  display: flex;
+}
+#Audio{
+flex: 0 0 65%;
+}
+
+#AudioDescription{
+flex: 1;
+}
+
+ #KodakDescription{
+  flex: 1;
+  padding-top: 15%;
+ }
+
+ #KodakImages{
+   flex: 0 0 65%;
+ }
+
+ #project1{
+   display: flex;
+ }
+
+ #credentials{
+    height: 200px;
+    width:450px;
+ }
+.Kodak{
+  height: 250px;
+  width: 450px;
+  padding: 10px;
+}
 header {
   padding: 156px 0 100px;
   font-weight: bold;
