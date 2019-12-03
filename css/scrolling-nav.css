@@ -7,11 +7,11 @@
   display: flex;
 }
 #Audio{
-flex: 0 0 65%;
+  flex: 0 0 65%;
 }
 
 #AudioDescription{
-flex: 1;
+  flex: 1;
 }
 
  #KodakDescription{
