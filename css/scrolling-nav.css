@@ -5,38 +5,45 @@
  */
 
 #project2{
-  display: flex;
+  display: relative;
 }
 
 .audioImages{
   height:270px;
   width: 450px;
   padding-top: 25px;
+  text-align: center;
+  align-content: center;
+}
+
+#line{
+text-align: center;
+align-content: center;
+display: relative;
 }
 
 #Audio{
-  flex: 0 0 65%;
-  padding-right: 50px;
+  text-align: center;
+  align-content: center;
 }
 
 #AudioDescription{
-  flex: 1;
-  text-align: center;
-
+  padding-top: 15%;
+  text-align: left;
 }
 
  #KodakDescription{
-  flex: 1;
   padding-top: 15%;
-  text-align: center;
+  text-align: left;
  }
 
  #KodakImages{
-   flex: 0 0 65%;
+   text-align: center;
+   align-content: center;
  }
 
  #project1{
-   display: flex;
+   display: relative;
  }
 
  #credentials{
@@ -47,6 +54,7 @@
   height: 250px;
   width: 450px;
   padding: 10px;
+  display: inline-block;
 }
 header {
   padding: 156px 0 100px;
