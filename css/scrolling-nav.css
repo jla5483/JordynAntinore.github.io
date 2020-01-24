@@ -4,8 +4,15 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
-#project2{
+#project1, #project2, #project3{
   display: relative;
+}
+.Game{
+  height:270px;
+  width: 450px;
+  padding-top: 25px;
+  text-align: center;
+  align-content: center;
 }
 
 .audioImages{
@@ -40,10 +47,6 @@ display: relative;
  #KodakImages{
    text-align: center;
    align-content: center;
- }
-
- #project1{
-   display: relative;
  }
 
  #credentials{
