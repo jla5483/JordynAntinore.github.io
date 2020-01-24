@@ -7,17 +7,28 @@
 #project1, #project2, #project3{
   display: relative;
 }
-.Game{
-  height:270px;
-  width: 450px;
+
+#Game{
+  text-align: center;
+  align-content: center;
+}
+
+.gameImages{
+  height:370px;
+  width: 550px;
   padding-top: 25px;
   text-align: center;
   align-content: center;
 }
 
+#GameFinder{
+  padding-top: 15%;
+  text-align: left;
+}
+
 .audioImages{
-  height:270px;
-  width: 450px;
+  height:370px;
+  width: 550px;
   padding-top: 25px;
   text-align: center;
   align-content: center;
@@ -39,26 +50,32 @@ display: relative;
   text-align: left;
 }
 
- #KodakDescription{
-  padding-top: 15%;
+#KodakDescription{
+  padding-top: 5%;
   text-align: left;
- }
+}
 
- #KodakImages{
-   text-align: center;
-   align-content: center;
- }
+#KodakImages{
+  text-align: center;
+  align-content: center;
+}
 
- #credentials{
-    height: 200px;
-    width:450px;
- }
+#credentials{
+  height: 200px;
+  width:450px;
+}
+
 .Kodak{
-  height: 250px;
-  width: 450px;
+  height: 325px;
+  width: 550px;
   padding: 10px;
   display: inline-block;
 }
+
+#mainKodak{
+  height: 300px;
+}
+
 header {
   padding: 156px 0 100px;
   font-weight: bold;
