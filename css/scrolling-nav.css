@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
-#project1, #project2, #project3{
+#project2, #project3{
   display: relative;
 }
 
@@ -50,30 +50,10 @@ display: relative;
   text-align: left;
 }
 
-#KodakDescription{
-  padding-top: 5%;
-  text-align: left;
-}
-
-#KodakImages{
-  text-align: center;
-  align-content: center;
-}
 
 #credentials{
   height: 200px;
   width:450px;
-}
-
-.Kodak{
-  height: 325px;
-  width: 550px;
-  padding: 10px;
-  display: inline-block;
-}
-
-#mainKodak{
-  height: 300px;
 }
 
 header {
