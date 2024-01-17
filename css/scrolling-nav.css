@@ -66,9 +66,9 @@ section {
 }
 
 #profile{
-  width: 200px;
+  width: 175px;
   height: 250px;
-  border: 3px dotted white;
+  border: 3px dashed white;
 }
 
 body{
