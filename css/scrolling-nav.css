@@ -6,6 +6,12 @@
 
 #project2, #project3{
   display: relative;
+  background-color: #e7cffa;
+  padding: 15px;
+}
+
+.project-intro{
+  padding-bottom: 25px;
 }
 
 #Game{
@@ -16,20 +22,20 @@
 .gameImages{
   height: 65%;
   width: 550px;
-  padding-top: 25px;
+  padding-bottom: 25px;
   text-align: center;
   align-content: center;
 }
 
 #GameFinder{
-  padding-top: 15%;
+  padding: 15px;
   text-align: left;
 }
 
 .audioImages{
   height:65%;
   width: 550px;
-  padding-top: 25px;
+  padding-bottom: 25px;
   text-align: center;
   align-content: center;
 }
@@ -46,7 +52,7 @@ display: relative;
 }
 
 #AudioDescription{
-  padding-top: 15%;
+  padding: 15px;
   text-align: left;
 }
 
@@ -72,7 +78,7 @@ section {
 }
 
 body{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto Mono';
   background-color: whitesmoke;
 }
 
